@@ -1,5 +1,5 @@
 # Projet Personnel chez TiqTec (Stage) ~ AI Reader ~ Mouaz MOHAMED
-Mon projet personnel est un site Web développé en HTML/CSS et JavaScript permettant de faire lire à voix haute par l'intelligence artificielle un texte que l'on a écrit avec un choix multiple de voix grâce à une API (Application Programming Interface ou Interface de Programmation d'Application).<br>
+Mon projet personnel est un site Web développé en HTML/CSS et JavaScript permettant de faire lire à voix haute par l'intelligence artificielle un texte que l'on a écrit avec un choix multiple de voix/langues grâce à une API (Application Programming Interface ou Interface de Programmation d'Application).<br>
 Vous pouvez accéder à mon site Web hébergé par Render : [AI Reader by Mouaz](https://ai-reader-by-mouaz.onrender.com)
 
 ---
